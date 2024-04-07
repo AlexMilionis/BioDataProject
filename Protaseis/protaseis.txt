@@ -1,0 +1,21 @@
+1) Project Title: Predict Hospital Readmission for Patients with Diabetes 
+
+Datasets
+https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+
+Implementations
+https://towardsdatascience.com/predicting-hospital-readmission-for-patients-with-diabetes-using-scikit-learn-a2e359b15f0
+
+2) Linkage between lifestyle and diabetes
+Datasets
+Diabetes Health Indicators Dataset
+https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
+
+
+3) Project Title: Hospital length of stay prediction
+
+Datasets
+MIMIC-4, αν και δεν ξερω αν μπορουμε να παρουμε access
+https://github.com/Microsoft/r-server-hospital-length-of-stay 
+
+
